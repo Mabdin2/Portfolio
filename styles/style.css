@@ -7,12 +7,8 @@
     text-decoration: none;
     }
 
-    body{
-        height:100vh;
-    }
-    .border {
-        border:solid black
-        margin:10px;
-        align-items:center;
-        justify-content:center;
+    #header{
+        border: solid black;
+        margin: 10px
+        justify-content: center;
     }
